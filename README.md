@@ -15,7 +15,7 @@ This is a project which aims to automate the process for plotting graphs and cre
 
 - [@Krish Gupta](https://github.com/123krish123456)
 - [@Bhavyae Jain]()
-- [@Eashan Singh] (https://github.com/5C3PT3R)
+- [@Eashan Singh](https://github.com/5C3PT3R)
 
 ## Appendix
 
