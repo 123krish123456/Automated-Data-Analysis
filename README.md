@@ -31,6 +31,5 @@ In this project we have used SimpleImputer, OneHotEncoder and OrdinalEncoder fro
  
 ## Evaluation
 
-The evaluation metrics for the sample datasset model with each ML model are as follows
+The evaluation metrics for the sample dataset model with each ML model are as follows
 
-#### Knn
