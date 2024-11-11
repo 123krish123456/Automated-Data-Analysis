@@ -17,6 +17,7 @@ This is a project which aims to automate the process for plotting graphs and cre
 - [@Bhavyae Jain]()
 - [@Eashan Singh](https://github.com/5C3PT3R)
 - [@Akshaj Bagga](https://github.com/obleee)
+- [@Tanishq Gulati](https://github.com/sunshineblues)
 
 ## Appendix
 
