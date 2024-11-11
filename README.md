@@ -14,10 +14,10 @@ This is a project which aims to automate the process for plotting graphs and cre
 ## Authors
 
 - [@Krish Gupta](https://github.com/123krish123456)
-- [@Bhavyae Jain]()
+- [@Bhavyae Jain](https://github.com/sunshineblues)
 - [@Eashan Singh](https://github.com/5C3PT3R)
 - [@Akshaj Bagga](https://github.com/obleee)
-- [@Tanishq Gulati](https://github.com/sunshineblues)
+- [@Tanishq Gulati](https://github.com/Tanishqgulati)
 
 ## Appendix
 
