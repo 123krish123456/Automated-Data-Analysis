@@ -31,7 +31,7 @@ In this project we have used SimpleImputer, OneHotEncoder and OrdinalEncoder fro
  - [readme.so](https://readme.so)
  - [Kaggle-Sample_Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
  
-## Evaluation
+## Evaluation 
 
 The evaluation metrics for the sample dataset model with each ML model are as follows
 
